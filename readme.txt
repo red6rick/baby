@@ -9,5 +9,12 @@ dtoverlay=ov5647
 
 to my config.txt file
 
+-----
+
+install https://github.com/JeremyRuhland/klipper_network_status.git
+
+and add back to menu structure
+
+
 
 
